@@ -1,5 +1,5 @@
 # Zenless Zone Zero Character Sorter (zzzsort)
-A Zenless Zone Zero sorter with classic layout and more filters that based on [execfera's Touhou Project character sorter](https://tohosort.frelia.my/) source code and [better-nijisort's version of Nijisanji liver sorter](https://better-nijisort/pages.dev).
+A Zenless Zone Zero sorter with classic layout and more filters that based on [execfera's Touhou Project character sorter](https://tohosort.frelia.my/) source code.
 
 Visit [zzz.sorter.my.id](https://zzz.sorter.my.id/)
 
